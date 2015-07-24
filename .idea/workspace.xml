@@ -29,8 +29,8 @@
       <file leaf-file-name="HELLOGIT.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GITTEST/src/HELLOGIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44941634" vertical-offset="0" max-vertical-offset="514">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.5311284" vertical-offset="0" max-vertical-offset="514">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -424,12 +424,12 @@
       <created>1437705475754</created>
       <option name="number" value="Default" />
       <updated>1437705475754</updated>
-      <workItem from="1437705480201" duration="2307000" />
+      <workItem from="1437705480201" duration="2925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2307000" />
+    <option name="totallyTimeSpent" value="2925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
@@ -491,8 +491,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GITTEST/src/HELLOGIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44941634" vertical-offset="0" max-vertical-offset="514">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.5311284" vertical-offset="0" max-vertical-offset="514">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
         </state>
       </provider>
